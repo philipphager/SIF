@@ -1,0 +1,5 @@
+data/
+auxiliary_data/
+*.pyc
+sif.egg-info/
+.idea/
