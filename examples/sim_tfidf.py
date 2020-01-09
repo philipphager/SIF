@@ -1,5 +1,5 @@
 import pickle, sys
-sys.path.append('../src')
+sys.path.append('../sif')
 import data_io, sim_algo, eval, params
 
 

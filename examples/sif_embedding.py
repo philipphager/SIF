@@ -1,5 +1,5 @@
 import sys
-sys.path.append('../src')
+sys.path.append('../sif')
 import data_io, params, SIF_embedding
 
 # input
