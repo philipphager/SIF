@@ -4,4 +4,4 @@ numpy==1.18.1
 scikit-learn==0.22.1
 scipy==1.4.1
 sklearn==0.0
-Theano==1.0.4
+Theano==0.7.0
