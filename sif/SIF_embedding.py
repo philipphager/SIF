@@ -1,6 +1,6 @@
 import numpy as np
 
-from future import xrange
+from past.builtins import xrange
 from sklearn.decomposition import TruncatedSVD
 
 
